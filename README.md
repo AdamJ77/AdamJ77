@@ -7,7 +7,8 @@ _**DevOps, Software & more**_<br><br>
 <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=27 height=27>
 <img src="https://cdn.simpleicons.org/c++/000/fff" alt="C++" align=left width=27 height=27>
 <img src="https://cdn.simpleicons.org/sqlite/000/fff" alt="Java" align=left width=27 height=27>
-<img src="https://cdn.simpleicons.org/java/000/fff" alt="Java" align=left width=27 height=27>
+<span style="margin-left: 5px; font-weight: bold;">JAVA</span>
+JAVA
 <br><br>
 
 ### Technologies
