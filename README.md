@@ -3,15 +3,13 @@
 _**DevOps, Software & more**_<br><br>
 
 ### Languages
-
 [![My Skills](https://skillicons.dev/icons?i=py,bash,java,cpp)](https://skillicons.dev)
-
 <br><br>
 
 ### Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,linux,prometheus,grafana)](https://skillicons.dev)
-<br><br>
 
+<br><br>
 
 ### DevOps Projects 
 [![Azure DevOps IaaC & Deploy Pipeline to AWS & Azure ](https://img.shields.io/badge/azure%20devops-%230078D7.svg?&style=for-the-badge&logo=azure%20devops&logoColor=white)](https://github.com/AdamJ77/azure-devops-kubernetes-terraform-pipeline)
