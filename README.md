@@ -16,7 +16,9 @@ _**DevOps, Software & more**_<br><br>
 <br><br>
 
 ### Contributions
-[![Contest Platform](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kozlowskimaciej/because-its-worth-contest-platform.git)
+[![Contest Platform](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green&label=contest-platform&color=green)](https://github.com/kozlowskimaciej/because-its-worth-contest-platform.git)
+[![Microblog](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=microsoftazure&logoColor=red&label=microblog&color=red)](https://github.com/AdamJ77/microblog.git)
+
 <br><br>
 
 ### Other Projects
