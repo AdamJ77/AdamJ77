@@ -12,7 +12,7 @@ _**DevOps, Software & more**_<br><br>
 <br><br>
 
 ### DevOps Projects 
-[![Azure DevOps IaaC & Deploy Pipeline to AWS & Azure ](https://img.shields.io/badge/azure%20devops-%230078D7.svg?&style=for-the-badge&logo=azure%20devops&logoColor=white)](https://github.com/AdamJ77/azure-devops-kubernetes-terraform-pipeline)
+[![Azure DevOps IaaC & Deploy Pipeline to AWS & Azure ](https://img.shields.io/badge/azure%20devops-%230078D7.svg?&style=for-the-badge&logo=azure%20devops&logoColor=white&label=pipelines&color=purple)](https://github.com/AdamJ77/azure-devops-kubernetes-terraform-pipeline)
 <br><br>
 
 ### Contributions
@@ -22,7 +22,7 @@ _**DevOps, Software & more**_<br><br>
 <br><br>
 
 ### Other Projects
-[![Pygame 2D game](https://img.shields.io/badge/pygame-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/AdamJ77/highway-pygame)
+[![Pygame 2D game](https://img.shields.io/badge/pygame-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=blue&logoColor=blue&label=highway&color=blue)](https://github.com/AdamJ77/highway-pygame)
 <br><br>
 
 ### Contact me
