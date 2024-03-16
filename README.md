@@ -3,7 +3,7 @@
 _**DevOps, Software & more**_<br><br>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,bash,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,go,cpp)](https://skillicons.dev)
 <br><br>
 
 ### Technologies
