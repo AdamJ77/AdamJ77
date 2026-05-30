@@ -11,7 +11,8 @@ _**DevOps, SRE & more**_<br><br>
 
 <br><br>
 
-### DevOps Projects 
+### Main Projects
+[![HROps](https://img.shields.io/badge/devops-%230078D7.svg?&style=for-the-badge&label=HROps&color=yellow)](https://github.com/AdamJ77/hrops)
 [![Azure DevOps IaaC & Deploy Pipeline to AWS & Azure ](https://img.shields.io/badge/azure%20devops-%230078D7.svg?&style=for-the-badge&logo=azure%20devops&logoColor=white&label=pipelines&color=purple)](https://github.com/AdamJ77/azure-devops-kubernetes-terraform-pipeline)
 <br><br>
 
@@ -26,9 +27,7 @@ _**DevOps, SRE & more**_<br><br>
 <br><br>
 
 ### Contact me
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/adam-je%C5%BC-4b2055270/" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <img src="https://custom-icon-badges.demolab.com/badge/-jezadam02@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Amazon AWS" />
-</div>
+<a href="https://www.linkedin.com/in/adam-je%C5%BC-4b2055270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+<img src="https://custom-icon-badges.demolab.com/badge/-jezadam02@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email" />
