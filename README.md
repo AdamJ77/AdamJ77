@@ -1,13 +1,13 @@
 ## AdamJ
 
-_**DevOps, Software & more**_<br><br>
+_**DevOps, SRE & more**_<br><br>
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,bash,go,cpp)](https://skillicons.dev)
 <br><br>
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,linux,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,linux,prometheus,grafana)](https://skillicons.dev)
 
 <br><br>
 
